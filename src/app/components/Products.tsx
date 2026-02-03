@@ -10,7 +10,7 @@ export const Products = () => {
       icon: Home,
       color: "text-cyan-500",
       bg: "bg-cyan-50",
-      img: "https://images.unsplash.com/photo-1563297623-690225d30925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwb3QlMjBvZiUyMHBhaW50fGVufDF8fHx8MTc2OTYzMTU1MHww"
+      img: "https://images.unsplash.com/photo-Fe3t_dU_KTPg?auto=format&fit=crop&q=80"
     },
     {
       title: "Tintas Industriais",
@@ -18,7 +18,7 @@ export const Products = () => {
       icon: Layers,
       color: "text-fuchsia-500",
       bg: "bg-fuchsia-50",
-      img: "https://images.unsplash.com/photo-1599418978625-1fc805bc068d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsaXF1aWQlMjBpbmslMjB0ZXh0dXJlc3xlbnwxfHx8fDE3Njk3MjAwOTB8MA"
+      img: "https://images.unsplash.com/photo-G6ncYLp862z?auto=format&fit=crop&q=80"
     },
     {
       title: "Esmaltes e Complementos",
@@ -26,7 +26,7 @@ export const Products = () => {
       icon: PaintBucket,
       color: "text-yellow-500",
       bg: "bg-yellow-50",
-      img: "https://images.unsplash.com/photo-1595429035839-c99c298ffdde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwYWludCUyMGJydXNoZXN8ZW58MXx8fHwxNzY5NzIwMDkwfDA"
+      img: "https://images.unsplash.com/photo-GPb8TAR72gr?auto=format&fit=crop&q=80"
     }
   ];
 

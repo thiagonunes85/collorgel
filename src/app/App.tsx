@@ -37,7 +37,7 @@ const AboutSection = () => {
           <div className="lg:w-1/2 relative">
             <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1758518731457-5ef826b75b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHRlYW18ZW58MXx8fHwxNzY5NzA4NTQ3fDA"
+                src="https://images.unsplash.com/photo-EdHA5RGr_2T?auto=format&fit=crop&q=80"
                 alt="Equipe Collorgel"
                 className="w-full h-full object-cover"
               />

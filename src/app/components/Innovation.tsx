@@ -66,7 +66,7 @@ export const Innovation = () => {
               className="relative aspect-square rounded-[3rem] overflow-hidden border border-white/10"
             >
               <img
-                src="https://images.unsplash.com/photo-1562411053-c9ac630a5934?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGVtaWNhbCUyMGxhYm9yYXRvcnklMjBpbmslMjByZXNlYXJjaHxlbnwxfHx8fDE3Njk3MjAwOTB8MA"
+                src="https://images.unsplash.com/photo-Gck3J4TUmSA?auto=format&fit=crop&q=80"
                 alt="Laboratório de Pesquisa Collorgel"
                 className="w-full h-full object-cover"
               />
